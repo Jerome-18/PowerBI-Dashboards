@@ -1,12 +1,8 @@
-# PowerBI-Dashboards
-For all the sql projects the dashboards in the pdf format with the powerbi file are present in this repository.
+# Vehicle Insurance-Dashboard
 
-## Currently there are 3 dashboards
+I have made this dashboard using powerBi.I have uploaded the power bi file and the screenshot of the dashboard.
+The data was imported using csv file. I have used different visuals and slicers to filter out the data and bring out the insights.
 
-## US CAR AUCTION DASHBOARD
+### Few insights from the data
+The company has male customers more.
 
-
-## CAR INSURANCE DASHBOARd
-
-
-## AWESOME CHOCOLATES DASHBOARD
